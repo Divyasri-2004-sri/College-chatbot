@@ -1,6 +1,6 @@
 fastapi
 uvicorn
+openai          
 transformers
 sentence-transformers
 torch
-openai
